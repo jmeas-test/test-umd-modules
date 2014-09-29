@@ -1,6 +1,10 @@
 // Load the core
 var mn = require('marionette/components/core');
 
-var obj = require('marionette/components/object');
+var Obj = require('marionette/components/object');
 
-console.log('got it', mn, obj);
+console.log('Marionette:', mn);
+
+var myObj = new Obj();
+
+console.log('My object', myObj);
