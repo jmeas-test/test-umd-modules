@@ -1,7 +1,7 @@
 test-umd-modules
 ================
 
-An example repo showing how Marionette objects can be UMD-ified.
+This repository is a quick test to show how [marionettejs/backbone.marionette#1900](https://github.com/marionettejs/backbone.marionette/pull/1900) is in working condition.
 
 #### Getting Started
 
