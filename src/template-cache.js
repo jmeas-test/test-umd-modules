@@ -1,5 +1,5 @@
-var mn = require('marionette/components/core');
-var TemplateCache = require('marionette/components/template-cache');
+var mn = require('marionette/core');
+var TemplateCache = require('marionette/template-cache');
 
 console.log('Marionette:', mn);
 

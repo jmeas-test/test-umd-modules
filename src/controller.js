@@ -1,5 +1,5 @@
-var mn = require('marionette/components/core');
-var Controller = require('marionette/components/controller');
+var mn = require('marionette/core');
+var Controller = require('marionette/controller');
 
 console.log('Marionette:', mn);
 

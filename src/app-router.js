@@ -1,5 +1,5 @@
-var mn = require('marionette/components/core');
-var AppRouter = require('marionette/components/app-router');
+var mn = require('marionette/core');
+var AppRouter = require('marionette/app-router');
 
 console.log('Marionette:', mn);
 

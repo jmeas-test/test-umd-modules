@@ -1,5 +1,5 @@
-var mn = require('marionette/components/core');
-var Region = require('marionette/components/region');
+var mn = require('marionette/core');
+var Region = require('marionette/region');
 
 console.log('Marionette:', mn);
 
