@@ -10,3 +10,8 @@ a version of Marionette that's on a branch, I just bundled the app for you.
 
 Simply open the html files under `./html` in your browser. Look at the console to see it
 at work!
+
+#### Updating the src files
+
+You should play around in `src/` to see if this works. Make changes to the files, then run `grunt build`
+to build your changes. Refresh the HTML pages in your browser to see the changes.
