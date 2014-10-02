@@ -1,5 +1,5 @@
-var mn = require('marionette/core');
-var CompositeView = require('marionette/composite-view');
+var mn = require('marionette/lib/core');
+var CompositeView = require('marionette/lib/composite-view');
 
 console.log('Marionette:', mn);
 

@@ -1,5 +1,5 @@
-var mn = require('marionette/core');
-var Callbacks = require('marionette/callbacks');
+var mn = require('marionette/lib/core');
+var Callbacks = require('marionette/lib/callbacks');
 
 console.log('Marionette:', mn);
 

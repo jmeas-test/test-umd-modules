@@ -1,5 +1,5 @@
-var mn = require('marionette/core');
-var ItemView = require('marionette/item-view');
+var mn = require('marionette/lib/core');
+var ItemView = require('marionette/lib/item-view');
 
 console.log('Marionette:', mn);
 
